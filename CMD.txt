@@ -1,0 +1,10 @@
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\WOGrouping_BMA_Scoring_V9.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\WOGrouping_WAIO_Scoring_V9.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\WOGrouping_OTHERS_Scoring_V9.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\WOGrouping_Combine_All_Scoring_V9.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\Spanish_Short_Text_Mining_Scoring_v16.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\Spanish_Long_Text_Mining_Scoring_v16.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\Spanish_Combine_Text_Mining_Scoring_v16.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\English_Short_Text_Mining_Scoring_v16.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\English_Long_Text_Mining_Scoring_v16.0.R
+D:\R-3.2.3\bin\x64\Rscript.exe    D:\R_SCRIPTS\0508\Code\English_Combine_Text_Mining_Scoring_v16.0.R
